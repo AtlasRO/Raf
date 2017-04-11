@@ -16,23 +16,23 @@ var colors = ["#ABC8E4","#628CB6","#003366","#001948","#001948","#001948","#0019
 var imported = false;
 // var imported = [
 // {
-// 	name:'Fred',
+// 	name:'Anton',
 // 	points:2
 // },{
-// 	name:'Dallin',
+// 	name:'Ezael',
 // 	points:3
 // },{
-// 	name:'Ryan'
+// 	name:'Doria'
 // },{
-// 	name:'Paul'
+// 	name:'Tilos'
 // },{
-// 	name:'Wade'
+// 	name:'Wadee'
 // },{
-// 	name:'Kesler'
+// 	name:'Kesrrrler'
 // },{
-// 	name:'Brett'
+// 	name:'Brerrrtt'
 // },{
-// 	name:'Tyler'
+// 	name:'Tylrrrrer'
 // }
 // ];
 
